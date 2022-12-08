@@ -1,0 +1,3 @@
+[submodule "Source/.Externals/Driver_Windows_WebCam"]
+	path = Source/.Externals/Driver_Windows_WebCam
+	url = https://github.com/PatriekBruins/Driver_Windows_WebCam.git
